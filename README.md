@@ -1,4 +1,6 @@
-# Venture-Capital-Funding-Funnel-Analysis
+<div align="center">
+  <img src="assets/banner.svg" alt="Venture Capital Funding Funnel Analysis Banner" width="100%" />
+</div>
 
 # Early-Stage Venture Capital Funding Funnel Analysis (Sub-$1M)
 
